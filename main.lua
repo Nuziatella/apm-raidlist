@@ -3,7 +3,7 @@ local api = require("api")
 local addon = {
     name = "APM RaidList",
     author = "Nuzi",
-    version = "1.1.0",
+    version = "1.1.1",
     desc = "Raid class reporter"
 }
 
